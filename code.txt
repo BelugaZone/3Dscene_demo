@@ -1,0 +1,8 @@
+$env:ANTHROPIC_BASE_URL = "https://open.bigmodel.cn/api/anthropic"
+$env:ANTHROPIC_AUTH_TOKEN = "Yde311d2d8a374ae0bb8fe51111b5c046.lEA8ku1sm7yF1Jte"
+$env:ANTHROPIC_AUTH_TOKEN = "d624efa1e82d47d482358fac8fc815f4.eAt9PuZCJG8aLq3m"
+
+// 证明文件修改能力的测试内容
+// 修改时间: 2025-10-04
+// 修改者: Claude Code AI Assistant
+// 这是新增的内容，证明我具备修改文件的能力，同时保持了原有内容不变。
